@@ -1,0 +1,17 @@
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.AssemblyInfoInputs.cache
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.AssemblyInfo.cs
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.csproj.CoreCompileInputs.cache
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\bin\Debug\net8.0\ConsoleApi.exe
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\bin\Debug\net8.0\ConsoleApi.deps.json
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\bin\Debug\net8.0\ConsoleApi.runtimeconfig.json
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\bin\Debug\net8.0\ConsoleApi.dll
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\bin\Debug\net8.0\ConsoleApi.pdb
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.dll
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\refint\ConsoleApi.dll
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.pdb
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.genruntimeconfig.cache
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ref\ConsoleApi.dll
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.csproj.AssemblyReference.cache
+D:\Projeto_vs_dotnet_c#\ConsoleApi\ConsoleApi\obj\Debug\net8.0\ConsoleApi.csproj.CopyComplete
